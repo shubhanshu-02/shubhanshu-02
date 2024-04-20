@@ -4,9 +4,9 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=shubhanshu-02&show_icons=true&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shubhanshu-02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubhanshu-02&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubhanshu-02&theme=merko&border_radius=10&ring=FFFFFF&fire=00A39E)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshu-02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
