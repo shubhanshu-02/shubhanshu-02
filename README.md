@@ -1,4 +1,37 @@
-### Hi there 👋
+
+<h1 align="center">Hi👋, I'm Shubhanshu Gupta</h1>
+<h3 align="center">Coding and Tech Enthusiast</h3>
+
+
+- 🧑‍🏫 I teach Python in an offline institute.
+
+- 👨‍💻 I've contributed to SSOC in the mern project [Nest-Ondc](https://github.com/MAVRICK-1/Nest-Ondc/).
+
+- 🤖 Currently exploring ML.
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+### 📫 Connect with me:
+- **LinkedIn:** [shubhanshugupta02](https://www.linkedin.com/in/shubhanshugupta02/)
+- **Email:** [shubhanshu004@gmail.com](mailto:shubhanshu004@gmail.com)
+- **Leetcode:** [shubhanshugupta02](https://leetcode.com/u/shubhanshugupta02/)
+- **Instagram:** [shubhanshu02](https://www.instagram.com/shubhanshu02/)
 
 
 # 📊 GitHub Stats:
