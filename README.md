@@ -44,8 +44,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=shubhanshu-02&theme=react&show_icons=true&hide_border=false&count_private=true)
-<br/>
+![shubhanshu-02's Stats](https://github-readme-stats.vercel.app/api?username=shubhanshu-02&theme=gotham&show_icons=true&hide_border=false&count_private=true)<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubhanshu-02&theme=merko&border_radius=10&ring=FFFFFF&fire=00A39E)](https://git.io/streak-stats)
 
