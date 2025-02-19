@@ -4,13 +4,15 @@
 
 <br>
 
-- 🧑‍🏫 I teach Python in an offline institute.
+- ⚛ Mentee @ Season of KDE'25 
 
 - 💻 Flutter Developer
 
 - 👨‍💻 I've contributed to SSOC in the mern project [Nest-Ondc](https://github.com/MAVRICK-1/Nest-Ondc/).
 
 - 🤖 Currently exploring ML.
+
+- 🧑‍🏫 I teach Python in an offline institute.
 <br>
 
 ## 💻 Tech Stack:
