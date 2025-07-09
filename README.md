@@ -6,13 +6,13 @@
 
 - ⚛ Mentee @ Season of KDE'25 
 
-- 💻 Flutter Developer
+- 💻 Web - App Developer
 
 - 👨‍💻 I've contributed to SSOC in the mern project [Nest-Ondc](https://github.com/MAVRICK-1/Nest-Ondc/).
 
 - 🤖 Currently exploring ML.
 
-- 🧑‍🏫 I teach Python in an offline institute.
+- 🧑‍🏫 I taught Python in an offline institute.
 <br>
 
 ## 💻 Tech Stack:
